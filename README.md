@@ -47,11 +47,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="35" width="50" alt="babel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="50" alt="python logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pool1541/pool1541/blob/output/snake.svg" alt="Snake animation" />
-
-###

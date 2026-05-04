@@ -1,4 +1,4 @@
-<h1 align="left">Hola👋! Soy Pool Llerena</h1>
+<h1 align="left">Hi👋! i'm Pool Llerena</h1>
 
 ###
 
@@ -14,22 +14,18 @@
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">¡Hola! Soy una persona creativa y entusiasta con pasión por la tecnología y capacidad para resolver problemas complejos. Encaminado a ser desarrollador front-end, y siempre estoy buscando nuevos desafíos para desarrollar aún más mis habilidades y conocimientos. En GitHub, puedes encontrar algunos de mis proyectos personales que demuestran mi pasión por la programación. Siempre estoy abierto a colaborar con otros y bienvenida cualquier oportunidad de trabajar en proyectos emocionantes.</p>
+<p align="left">
+  Software developer focused on cloud-based systems. I’m interested in building simple, scalable solutions that actually work in production. 
+  I mainly work with JavaScript/TypeScript and move between backend and frontend depending on what the project needs, often using serverless and AWS.
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=pool1541" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=pool1541" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Lenguajes y herramientas</h3>
+<h3 align="left">Skills</h3>
 
 ###
 
